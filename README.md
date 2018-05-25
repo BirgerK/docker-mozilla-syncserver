@@ -1,5 +1,7 @@
 # Docker - Mozilla Sync Server
 
+*I'm not updating this repo anymore. I recommend to use the official Mozilla-Image which is at the time under active development.*
+
 This is based on [spiroids image](https://github.com/spiroid/docker-mozilla-syncserver)!
 [Mozilla Sync server](https://github.com/mozilla-services/syncserver) image for Docker, full [documentation](https://docs.services.mozilla.com/howtos/run-sync-1.5.html).
 
